@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361935911582",
+    "project_id": "epilog-84c9b",
+    "storage_bucket": "epilog-84c9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361935911582:android:77d25d0ac16eebecd1198f",
+        "android_client_info": {
+          "package_name": "com.example.epilog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361935911582-o7aesbpj9b1h0leu7271d1cmo30rsrot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtAZVRf0FCu6PC8OZZ2S_j6SMFRnaRxbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361935911582-o7aesbpj9b1h0leu7271d1cmo30rsrot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

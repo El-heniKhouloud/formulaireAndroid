@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">epilog</string>
+    <string-array name="choix">
+        <item>1ere annee</item>
+        <item>2ere annee</item>
+        <item>3eme annee</item>
+        <item>4eme annee</item>
+        <item>5eme annee</item>
+    </string-array>
+</resources>
